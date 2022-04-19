@@ -40,7 +40,3 @@ yarn start
 Acesse o endereço no navegador:
 
 `http://localhost:3000`
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
