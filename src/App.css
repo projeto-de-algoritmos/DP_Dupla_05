@@ -1,0 +1,51 @@
+.grid {
+  /* display: grid;
+  grid-template-columns: repeat(5, 0fr);
+  gap: 0px; */
+}
+
+.tablet {
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+  margin: 0.3rem;
+  box-shadow: 1px 1px 2px #35353590;
+  background: white;
+  cursor: pointer;
+  outline-width: 0;
+  transition: all 0.3s ease-in-out;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.handle-btn {
+  width: 30%;
+  border: none;
+  box-shadow: 1px 1px 2px #353535;
+  height: 3rem;
+  border-radius: 5rem;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #f7f7f7;
+  text-align: center;
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.start {
+  background-color: #03787c;
+}
+
+.finish {
+  background-color: #e68057;
+}
+
+.handle-btn:active,
+.handle-btn:hover {
+  transition: all 0.5s;
+  box-shadow: 1px 1px 5px #353535;
+  transform: translateY(-2px);
+}
