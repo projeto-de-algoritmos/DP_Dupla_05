@@ -20,6 +20,10 @@ Em uma matriz N x M é dado uma posição inicial onde deverá ser encontrado o 
 
 ![Mínimo Caminho 3](./github/min_caminho_3.png)
 
+## Apresentação
+
+A apresentação do projeto pode ser vista no arquivo ```apresentacao.mp4``` ou por este [link](https://youtu.be/aWevhw72tM0).
+
 ## Instalação 
 **Linguagem**: JavaScript<br>
 **Framework**: ReactJS<br>
