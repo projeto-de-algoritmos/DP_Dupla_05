@@ -13,7 +13,12 @@
 Em uma matriz N x M é dado uma posição inicial onde deverá ser encontrado o caminho até o ponto final. A finalidade é encontrar o custo mínimo para alcançar o último ponto da matriz a partir da primeira.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Mínimo Caminho 1](./github/min_caminho_1.png)
+
+![Mínimo Caminho 2](./github/min_caminho_2.png)
+
+![Mínimo Caminho 3](./github/min_caminho_3.png)
 
 ## Instalação 
 **Linguagem**: JavaScript<br>
